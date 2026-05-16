@@ -72,3 +72,7 @@ QMUIKit 和 QMUI Demo 的 Sketch 设计稿均存放在 [https://github.com/QMUI/
 建议搭配 QMUI 专用的 Code Snippets 及文件模板使用：
 1. [QMUI_iOS_CodeSnippets](https://github.com/QMUI/QMUI_iOS_CodeSnippets)
 2. [QMUI_iOS_Templates](https://github.com/QMUI/QMUI_iOS_Templates)
+
+
+## 计划
+1. 完善 UIScene 适配 
