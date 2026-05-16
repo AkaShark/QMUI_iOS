@@ -73,4 +73,4 @@ QMUIKit 和 QMUI Demo 的 Sketch 设计稿均存放在 [https://github.com/QMUI/
 2. [QMUI_iOS_Templates](https://github.com/QMUI/QMUI_iOS_Templates)
 
 ## 计划
-1. 适配 UIScene
+1. 完善 UIScene 支持（计划支持 Multiple Window）
