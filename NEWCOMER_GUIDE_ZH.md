@@ -49,7 +49,7 @@
 - 常用宏/工具函数来源
 - 初始化时机（比如全局配置生效链路）
 
-### 2.3 Components（组件层）
+### 2.3 QMUIComponents（组件层）
 
 路径：`QMUIKit/QMUIComponents/`
 
